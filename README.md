@@ -1,2 +1,3 @@
-# zeebe-engine-test-template
-Template repository for creation reproducible tests with zeebe-process-test
+# Zeebe Engine Test Template
+
+Template repository in order to create reproducers for Zeebe engine bugs.
